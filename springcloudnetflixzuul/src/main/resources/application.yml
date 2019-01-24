@@ -1,0 +1,3 @@
+server:
+  context-path: /foo-resource
+  port: 8081
